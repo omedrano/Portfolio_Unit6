@@ -38,3 +38,18 @@
         display: block;
       }
     }
+
+.aboutmebody{background:black;}
+.aboutmeheader{color:red;}
+pre{color:white
+;}
+a{color:black;}
+img{
+    width:500px;}
+p{color:white;}
+.aboutmebody{   background-image: url(https://media.giphy.com/media/49AJk1Jnpgck8/giphy.gif);
+background-size:100-px ;}
+.kyrie{
+  width:700px;
+}
+
